@@ -5,7 +5,7 @@
   "repository": "https://github.com/isaacdias/github-finder.git",
   "author": "Isaac Dias <isaacardias@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.1",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
